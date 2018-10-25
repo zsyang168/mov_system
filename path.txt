@@ -1,0 +1,12 @@
+1、order文件位置（约束条件）:
+D:\mov_plan\
+2、库存表的位置:
+D:\mov_plan\inventory\
+3、mov_结果文件位置:(路径\文件名)
+D:\mov_plan\测试9
+4、plan_id文件位置:
+D:\mov_plan\plan_id\
+5、filling_part文件位置
+D:\mov_plan\filling_parts\
+6、打印文件位置：(路径\文件名)
+D:\mov_plan\3EK MOV Configuration Sheet Rev1
